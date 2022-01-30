@@ -1,4 +1,4 @@
-### eqArrays Challenge 
+### Lotide - eqArrays Challenge 
 
 
 To quote the assignment 
