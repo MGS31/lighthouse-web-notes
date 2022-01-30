@@ -8,4 +8,4 @@ This repository contains all of the notes taken by [Matt Stankovich](https://git
 ### Table of Content
 * [Week 1](/week_1)
   * [Day 1](/week_1/day1)
-  
+  * [Review](/week_1/review)
