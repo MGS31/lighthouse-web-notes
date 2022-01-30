@@ -1,4 +1,4 @@
-### Asserting AND equalling check for arrays
+### Lotide - Asserting AND equalling check for arrays
 
 So we have two functions, one that can assert a console log to say if an array is assert pass or assert fail (true or false).
 
